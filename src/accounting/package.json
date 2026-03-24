@@ -1,0 +1,23 @@
+{
+  "name": "accounting",
+  "version": "1.0.0",
+  "description": "Modernized Node.js version of legacy COBOL account management system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --runInBand"
+  },
+  "keywords": [
+    "cobol",
+    "accounting",
+    "legacy-modernization"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
